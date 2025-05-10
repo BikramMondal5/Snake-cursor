@@ -1,4 +1,4 @@
-# Snake Cursor
+# 💻🐍 Snake Cursor
 
 A visually stunning, interactive snake cursor effect for your browser, built with Flask and modern JavaScript
 
@@ -11,11 +11,11 @@ A visually stunning, interactive snake cursor effect for your browser, built wit
 
 ## 🛠️ Technologies Used
 - Python 3
-- Flask (for serving the web app)
+- Flask 
 - HTML5 & CSS3
-- JavaScript (ES6)
+- JavaScript
 - Canvas API
-- Bootstrap (dark theme)
+- Bootstrap
 
 ## ⚙️ Installation
 1. **Clone the repository:**
